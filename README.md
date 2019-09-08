@@ -12,6 +12,6 @@ Biniboard - NodeMCU V3 (Lolin) breakout board
     => https://www.instructables.com/id/Getting-Started-With-ESP8266LiLon-NodeMCU-V3Flashi/
 
 
-# company: openSupport / 오픈서포트 (www.opensupport.xyz)
-# facebook: https://www.facebook.com/opensupport.xyz/
+- company: openSupport / 오픈서포트 (www.opensupport.xyz)
+- facebook: https://www.facebook.com/opensupport.xyz/
 
