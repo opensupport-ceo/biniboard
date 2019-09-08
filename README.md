@@ -6,7 +6,7 @@ Biniboard - NodeMCU V3 (Lolin) breakout board
 1. NodeMCU devkit v1.0:
    => https://github.com/nodemcu/nodemcu-devkit-v1.0
 
-2. Getting Started With ESP8266(LiLon NodeMCU V3) Complete Guide for IoT Startup With Example(as Server):
+2. Getting Started With ESP8266(Lolin NodeMCU V3) Complete Guide for IoT Startup With Example(as Server):
     => https://www.instructables.com/id/Getting-Started-With-ESP8266LiLon-NodeMCU-V3Flashi/
 
 3. NodeMCU V3 (lolin) pinout:
