@@ -1,6 +1,9 @@
 # biniboard
 Biniboard - NodeMCU V3 (Lolin) breakout board
 
+## company: openSupport / 오픈서포트 (www.opensupport.xyz)
+## facebook: https://www.facebook.com/opensupport.xyz/
+
 #Referals:
 1. NodeMCU devkit v1.0:
    => https://github.com/nodemcu/nodemcu-devkit-v1.0
@@ -12,6 +15,4 @@ Biniboard - NodeMCU V3 (Lolin) breakout board
     => https://www.instructables.com/id/Getting-Started-With-ESP8266LiLon-NodeMCU-V3Flashi/
 
 
-- company: openSupport / 오픈서포트 (www.opensupport.xyz)
-- facebook: https://www.facebook.com/opensupport.xyz/
 
